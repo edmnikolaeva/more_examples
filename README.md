@@ -9,7 +9,6 @@
 - 👉[ISD](https://github.com/edmnikolaeva/ISD) 
 
 ### 🛠 API & Data Formats
-- 👉[JSON](https://github.com/edmnikolaeva/json) 
 - 👉[XML](https://github.com/edmnikolaeva/xml) 
 
 ### 📚 Documentation & Reports
