@@ -2,6 +2,7 @@
 - This repository contains extra projects and artifacts demonstrating my additional system analysis and technical skills
 - Each link below forwards to a repository showcasing specific work or documents
 
+---
 ### 📝 Requirements, Data & Processes Modeling
 - 👉[Use Case](https://github.com/edmnikolaeva/use_case)
 - 👉[ER](https://github.com/edmnikolaeva/ER)
@@ -10,6 +11,7 @@
 
 ### 🛠 API & Data Formats
 - 👉[C4 Model](https://github.com/edmnikolaeva/C4)
+- 👉[JSON](https://github.com/edmnikolaeva/json/tree/main)
 - 👉[XML](https://github.com/edmnikolaeva/xml) 
 
 ### 📚 Documentation & Reports
