@@ -12,7 +12,7 @@
 ### 🛠 API & Data Formats
 - 👉[C4 Model](https://github.com/edmnikolaeva/C4)
 - 👉[JSON](https://github.com/edmnikolaeva/json/tree/main)
-- 👉[XML](https://github.com/edmnikolaeva/xml) 
+- 👉[XML & SOAP](https://github.com/edmnikolaeva/xml) 
 
 ### 📚 Documentation & Reports
 - 👉[Test Plan](https://github.com/edmnikolaeva/test_plan)
